@@ -1,6 +1,6 @@
 # PowerBI
-**Aqui será apresentado os arquivos referêntes as atividades da disciplina 
-"Visualização de dados com Power BI".**
+**Aqui será apresentado os arquivos referêntes as atividades da disciplina: 
+Visualização de dados com Power BI.**
 
 
 - Atividade 1
@@ -9,7 +9,7 @@
 tais como: Cartão, Cartão de Linha Multípla, KPI e Indicador.
 Nessa atividade, nos reunimos em grupos, e deveriamos escolher um dataset 
 em que fossemos capazes de utilizar essas visualizações. 
-Foi escolhido o dataset "Youtube Statistics" do Kaggle disponível no em: 
+Foi escolhido o dataset "Youtube Statistics", do Kaggle, disponível no em: 
 https://www.kaggle.com/datasets/advaypatil/youtube-statistics?select=videos-stats.csv,
 e acessado em 22/01/2023.
 As visualizações se encontram no arquivo "youtubeVisual.pbix" na aba "visual", 
