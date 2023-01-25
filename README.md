@@ -21,6 +21,7 @@ a visualização da soma dessas três informações, com os recursos aprendidos 
 <img src="https://user-images.githubusercontent.com/39384991/213914178-a19a3442-1922-4133-ad09-0ff54d2c745c.png" width="500px" />
 </div>
 
+
 - Atividade 1.2
 
 <p align="justify"> Ainda na aula 2, dia 18/01/2023, como complemento e prática ao 
@@ -29,9 +30,8 @@ os filtros possiveis de localização, junto de um gráfico de mapa de usuários
 A visualização que preparei se encontra no arquivo "visual_com_filtros.pbix" na aba "Locations". Abaixo segue a imagem estática do visual.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/39384991/213914178-a19a3442-1922-4133-ad09-0ff54d2c745c.png" width="500px" />
+<img src="https://user-images.githubusercontent.com/39384991/214702460-2acaa6ea-a58c-4ee9-ab39-7ce471de302b.png" width="500px" />
 </div>
-
 
 
 - Atividade 2:
@@ -50,3 +50,7 @@ Essas aplicações se encontram no arquivo "youtubeVisual.pbix" na aba "filtros"
 <div align="center">
 <img src="https://user-images.githubusercontent.com/39384991/213914191-f93b203e-c6e6-4127-9fef-20776da32d9d.png" width="500px" />
 </div>
+
+
+
+![visu-4](https://user-images.githubusercontent.com/39384991/214702498-175d62fd-a4df-4d97-bba4-662eb71fbf86.png)
