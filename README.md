@@ -3,7 +3,7 @@
 Visualização de dados com Power BI.**
 
 
-- Atividade 1
+- Atividade 1.1
 
 <p align="justify"> Na aula 2, dia 18/01/2023, foi feito estudo alguns tipos de visualizações, 
 tais como: Cartão, Cartão de Linha Multípla, KPI e Indicador.
@@ -20,6 +20,18 @@ a visualização da soma dessas três informações, com os recursos aprendidos 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/39384991/213914178-a19a3442-1922-4133-ad09-0ff54d2c745c.png" width="500px" />
 </div>
+
+- Atividade 1.2
+
+<p align="justify"> Ainda na aula 2, dia 18/01/2023, como complemento e prática ao 
+que nos foi passado em aula, deveriamos montar uma visualização que continha todos
+os filtros possiveis de localização, junto de um gráfico de mapa de usuários por país, e dois gráficos criativos.
+A visualização que preparei se encontra no arquivo "visual_com_filtros.pbix" na aba "Locations". Abaixo segue a imagem estática do visual.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/213914178-a19a3442-1922-4133-ad09-0ff54d2c745c.png" width="500px" />
+</div>
+
 
 
 - Atividade 2:
