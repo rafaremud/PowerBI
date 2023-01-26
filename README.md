@@ -22,6 +22,7 @@ a visualização da soma dessas três informações, com os recursos aprendidos 
 </div>
 
 
+
 - Atividade 1.2
 
 <p align="justify"> Ainda na aula 2, dia 18/01/2023, como complemento e prática ao 
@@ -32,6 +33,7 @@ A visualização que preparei se encontra no arquivo "visual_com_filtros.pbix" n
 <div align="center">
 <img src="https://user-images.githubusercontent.com/39384991/214702460-2acaa6ea-a58c-4ee9-ab39-7ce471de302b.png" width="500px" />
 </div>
+
 
 
 - Atividade 2:
@@ -53,4 +55,11 @@ Essas aplicações se encontram no arquivo "youtubeVisual.pbix" na aba "filtros"
 
 
 
-![visu-4](https://user-images.githubusercontent.com/39384991/214702498-175d62fd-a4df-4d97-bba4-662eb71fbf86.png)
+- Atividade 3:
+<p align="justify"> Na aula 4, do dia 23/01/2023, foi feito o estudo de mais alguns tipos de gráficos, tais como o gráfico de linhas, área, área empilhado e de faixas, também aplicando o que foi visto nas aulas anteriores, como filtros e outros tipos de gráficos. Ao final da aula, foi requerido como prático do conteúdo, que fizéssemos uma visualização com 5 filtros (1 de data e 4 com as caracteristicas dos dados), um gráfico valor ou quantidade ao longo do tempo, um gráfico valou ou quantidade ao longo do tempo (dividido por uma caracteristica), cards para representar os totais, e mais dois gráficos de escolha livre. 
+Para isso, utilizei o mesmo dataset visto em aula, disponível em: https://www.kaggle.com/datasets/nosbielcs/brazilian-delivery-center?resource=download, e acessado em 25/01/2023. A visualização dessa atividade se encontra no arquivo "visual_ifood", na aba "atividade 3". Abaixo segue a imagem estática do visual.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/214702498-175d62fd-a4df-4d97-bba4-662eb71fbf86.png" width="500px" />
+</div>
+
