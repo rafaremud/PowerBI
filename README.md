@@ -57,7 +57,24 @@ Essas aplicações se encontram no arquivo "youtubeVisual.pbix" na aba "filtros"
 
 - Atividade 3:
 <p align="justify"> Na aula 4, do dia 23/01/2023, foi feito o estudo de mais alguns tipos de gráficos, tais como o gráfico de linhas, área, área empilhado e de faixas, também aplicando o que foi visto nas aulas anteriores, como filtros e outros tipos de gráficos. Ao final da aula, foi requerido como prático do conteúdo, que fizéssemos uma visualização com 5 filtros (1 de data e 4 com as caracteristicas dos dados), um gráfico valor ou quantidade ao longo do tempo, um gráfico valou ou quantidade ao longo do tempo (dividido por uma caracteristica), cards para representar os totais, e mais dois gráficos de escolha livre. 
-Para isso, utilizei o mesmo dataset visto em aula, disponível em: https://www.kaggle.com/datasets/nosbielcs/brazilian-delivery-center?resource=download, e acessado em 25/01/2023. A visualização dessa atividade se encontra no arquivo "visual_ifood", na aba "atividade 3". Abaixo segue a imagem estática do visual.
+Para isso, utilizei o mesmo dataset visto em aula, disponível em: https://www.kaggle.com/datasets/nosbielcs/brazilian-delivery-center?resource=download, e acessado em 25/01/2023. A visualização dessa atividade se encontra no arquivo "visual_ifood.pbix", na aba "atividade 3". Abaixo segue a imagem estática do visual.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/214702498-175d62fd-a4df-4d97-bba4-662eb71fbf86.png" width="500px" />
+</div>
+
+
+
+- Atividade 4:
+<p align="justify"> Na aula 5, do dia 27/01/2023, foi feito o estudo de mais alguns tipos de gráficos, tais como o gráfico de barras empilhadas e clusterizadas, colunas empilhadas e clusterizadas, e barras e colunas 100% empilhadas, também aplicando o que foi visto nas aulas anteriores, como filtros e outros tipos de gráficos. Ao final da aula, foi requerido como prático do conteúdo, que utilizando a base de dados: https://www.kaggle.com/datasets/johnybhiduri/us-crime-data, criássemos  um dashboard para responder às perguntas, com a melhor visualização para cada uma delas:
+
+1. Qual o total de crimes?
+2. Quais as 10 cidades mais violentas?
+3. Qauis os 10 estados mais violentos?
+4. Qual a quantidade de crimes ao longo do tempo?
+5. Utilizar os principais campos como filtro?
+
+A visualização dessa atividade se encontra no arquivo "crimesVisual.pbix", na aba "atividade 4". Abaixo segue a imagem estática do visual.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/39384991/214702498-175d62fd-a4df-4d97-bba4-662eb71fbf86.png" width="500px" />
