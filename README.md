@@ -77,6 +77,6 @@ Para isso, utilizei o mesmo dataset visto em aula, disponível em: https://www.k
 A visualização dessa atividade se encontra no arquivo "crimesVisual.pbix", na aba "atividade 4". Abaixo segue a imagem estática do visual.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/39384991/214702498-175d62fd-a4df-4d97-bba4-662eb71fbf86.png" width="500px" />
+<img src="https://user-images.githubusercontent.com/39384991/215233667-369e9b51-3dfb-4535-8c31-fd7aa160d31b.png" width="500px" />
 </div>
 
