@@ -80,3 +80,24 @@ A visualização dessa atividade se encontra no arquivo "crimesVisual.pbix", na 
 <img src="https://user-images.githubusercontent.com/39384991/215233667-369e9b51-3dfb-4535-8c31-fd7aa160d31b.png" width="500px" />
 </div>
 
+
+
+- Atividade 5:
+<p align="justify"> Na aula 6, do dia 30/01/2023, foi feito o estudo da linguagem DAX para a modificação e criação de tabelas, além de criação de medidas. Ao final da aula, utilizando a base Netflix - Exploratory Daa Analysis disponível em: https://www.kaggle.com/datasets/swatikhedekar/exploratory-data-analysis-on-netflix-data, deveríamos criar um dashboard para responder às peguntas, utiliznado a melhor vizualização para cada uma delas:
+
+1. Tratar alguns dados para corrigir a carga da base.
+2. Qual o total de títulos listados na base?
+3. Qual o total de filme e total de séries?
+4. Qual o total de filme e total de séries?
+5. Qual a média de tempo das séries em temporadas?
+6. Quantos filmes acima e abaixo da média?
+7. Quantas séries acima e abaixo da média?
+8. Criar uma coluna para filtrar filmes listados na categoria ação ou não.
+9. Usar a coluna de ano de lançamento como filtro.
+10. Qual o mês com mais filmes lançados?
+
+A visualização dessa atividade se encontra no arquivo "visual_netflix_dax.pbix", na aba "atividade 5". Abaixo segue a imagem estática do visual.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/215233667-369e9b51-3dfb-4535-8c31-fd7aa160d31b.png" width="500px" />
+</div>
