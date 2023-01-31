@@ -83,7 +83,7 @@ A visualização dessa atividade se encontra no arquivo "crimesVisual.pbix", na 
 
 
 - Atividade 5:
-<p align="justify"> Na aula 6, do dia 30/01/2023, foi feito o estudo da linguagem DAX para a modificação e criação de tabelas, além de criação de medidas. Ao final da aula, utilizando a base Netflix - Exploratory Daa Analysis disponível em: https://www.kaggle.com/datasets/swatikhedekar/exploratory-data-analysis-on-netflix-data, deveríamos criar um dashboard para responder às peguntas, utiliznado a melhor vizualização para cada uma delas:
+<p align="justify"> Na aula 6, do dia 30/01/2023, foi feito o estudo da linguagem DAX para a modificação e criação de tabelas, além de criação de medidas. Ao final da aula, utilizando a base Netflix - Exploratory Daa Analysis, disponível em: https://www.kaggle.com/datasets/swatikhedekar/exploratory-data-analysis-on-netflix-data, deveríamos criar um dashboard para responder às peguntas, utiliznado a melhor vizualização para cada uma delas:
 
 1. Tratar alguns dados para corrigir a carga da base.
 2. Qual o total de títulos listados na base?
@@ -99,5 +99,5 @@ A visualização dessa atividade se encontra no arquivo "crimesVisual.pbix", na 
 A visualização dessa atividade se encontra no arquivo "visual_netflix_dax.pbix", na aba "atividade 5". Abaixo segue a imagem estática do visual.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/39384991/215233667-369e9b51-3dfb-4535-8c31-fd7aa160d31b.png" width="500px" />
+<img src="https://user-images.githubusercontent.com/39384991/215677109-9b9ebacc-a9ef-4abb-bd4e-610e03347e7e.png" width="500px" />
 </div>
