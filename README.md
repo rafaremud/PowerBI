@@ -101,3 +101,28 @@ A visualização dessa atividade se encontra no arquivo "visual_netflix_dax.pbix
 <div align="center">
 <img src="https://user-images.githubusercontent.com/39384991/215677109-9b9ebacc-a9ef-4abb-bd4e-610e03347e7e.png" width="500px" />
 </div>
+
+
+
+- Atividade 6:
+<p align="justify"> Na aula 7, do dia 01/02/2023, aprendemos algumas técnicas visuais de como melhorar nosso dashboard, principalmente no quesito de combinação de cores. No decorrer da aula melhoramos o dashboard produzido com o dataset introduzido na aula 2, e esse dashboard melhorado se encontra no arquivo "visual_arrojado.pbix". Abaixo temos imagens de todas as abas do dashboard, que também podem ser vizualizadas através do arquivo "visual_arrojado.pdf".
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/216211069-396e88e9-011e-4be7-bd68-a001e6f28c50.png" width="500px" />
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/216211076-0b9fc762-2596-4f79-8771-df719eaa3442.png" width="500px" />
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/216211085-18f5c588-2780-432b-b473-4c225c49500f.png" width="500px" />
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/216211090-0257b3a1-8c89-4955-be0f-0e5d98f5a029.png" width="500px" />
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/216211093-46314a43-4ec6-4a0f-b956-fc9f4c4d98c4.png" width="500px" />
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/216211094-86486075-c1d7-4c5d-91d5-48763017dcad.png" width="500px" />
+</div>
+
