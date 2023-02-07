@@ -140,6 +140,6 @@ A visualização dessa atividade se encontra no arquivo "visual_netflix_dax.pbix
 As conclusões para essas hipóteses se encontram nas visualizações encontradas no arquivo "Dashboard_Suicidio.pbix" e "Dashboard_Suicidio.pdf". Abaixo é apresentada a primeira aba do dataset.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/39384991/216211069-396e88e9-011e-4be7-bd68-a001e6f28c50.png" width="500px" />
+<img src="https://user-images.githubusercontent.com/39384991/217124234-d166cf37-2613-4f2c-a7a0-ccf5c68acdf3.png" width="500px" />
 </div>
 
