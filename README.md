@@ -126,3 +126,20 @@ A visualização dessa atividade se encontra no arquivo "visual_netflix_dax.pbix
 <img src="https://user-images.githubusercontent.com/39384991/216211094-86486075-c1d7-4c5d-91d5-48763017dcad.png" width="500px" />
 </div>
 
+
+
+- Atividade 7: TRABALHO FINAL
+<p align="justify"> Na aula 9, do dia 06/02/2023, em grupo, apresentei o trabalho final da disciplina, que foi baseado no dataset de suicídios: https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021. Nesse trabalho, baseado no dataset, deveriamos levantar no minimo três hipóteses e verificar se essas são verdadeiras ou não. As hipóteses levantadas foram:
+
+1. O total de suicídios vêm aumentando ao longo dos anos;
+2. Pessoas acima dos 30 anos cometem mais suicídios;
+3. O maior número de suicídios está nas pessoas da geração X;
+4. Quanto maior o PIB Per Capita maior o número de suicídios;
+5. Os Estados Unidos concentra o maior número de suicídios.
+
+As conclusões para essas hipóteses se encontram nas visualizações encontradas no arquivo "Dashboard_Suicidio.pbix" e "Dashboard_Suicidio.pdf". Abaixo é apresentada a primeira aba do dataset.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/39384991/216211069-396e88e9-011e-4be7-bd68-a001e6f28c50.png" width="500px" />
+</div>
+
