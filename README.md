@@ -129,7 +129,7 @@ A visualização dessa atividade se encontra no arquivo "visual_netflix_dax.pbix
 
 
 - Atividade 7: TRABALHO FINAL
-<p align="justify"> Na aula 9, do dia 06/02/2023, em grupo, apresentei o trabalho final da disciplina, que foi baseado no dataset de suicídios: https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021. Nesse trabalho, baseado no dataset, deveriamos levantar no minimo três hipóteses e verificar se essas são verdadeiras ou não. As hipóteses levantadas foram:
+<p align="justify"> Na aula 10, do dia 06/02/2023, em grupo, apresentei o trabalho final da disciplina, que foi baseado no dataset de suicídios: https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021. Nesse trabalho, baseado no dataset, deveriamos levantar no minimo três hipóteses e verificar se essas são verdadeiras ou não. As hipóteses levantadas foram:
 
 1. O total de suicídios vêm aumentando ao longo dos anos;
 2. Pessoas acima dos 30 anos cometem mais suicídios;
